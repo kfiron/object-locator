@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kfiron/object-locator.svg?branch=master)](https://travis-ci.org/kfiron/object-locator)
 
-This small lib helps a developer to go directly inside object properties for any given depth and to return the datat
+This small lib helps a developer to go directly inside object properties for any given depth and to return the data
 
 ## The problem
 
