@@ -1,6 +1,6 @@
 {
   "name": "object-locator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Retrieve object inside an object my giving a path to the object, you no need to care for nulls/undefined",
   "keywords": [
     "null checker",
